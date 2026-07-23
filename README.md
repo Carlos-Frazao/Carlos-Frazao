@@ -46,6 +46,9 @@ Sinta-se à vontade para explorar meus repositórios — busco manter tudo docum
     <img alt="Mysql" title="Mysql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img alt="Arch" title="Arch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </p>
+
+## 
+
 ### `REDES`
 <p align="left">
     <a href="https://www.linkedin.com/in/carlos-eduardo-23180019a/" target="_blank">
@@ -70,10 +73,3 @@ Sinta-se à vontade para explorar meus repositórios — busco manter tudo docum
         />
     </a>
 </p>
-
----
-
-
-
-<br/>
-<br/>
