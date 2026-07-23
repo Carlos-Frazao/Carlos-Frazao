@@ -11,6 +11,29 @@ Para construir uma base sólida que une o conhecimento científico rigoroso às 
 
 Essa dupla jornada me permite transitar entre os conceitos complexos da ciência da computação, como estruturas de dados avançadas, e o desenvolvimento ágil de sistemas voltados para as demandas reais.
 Sinta-se à vontade para explorar meus repositórios — busco manter tudo documentado e organizado — e acompanhar minha evolução no desenvolvimento de software!
+<p align="left">
+    <a href="https://www.linkedin.com/in/carlos-eduardo-23180019a/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Acessar meu LinkedIn" 
+            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+        />
+    </a>
+    <a href="https://github.com/Carlos-Frazao?tab=repositories&sort=stargazers" target="_blank">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Carlos-Frazao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Carlos-Frazao?tab=followers" target="_blank">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Carlos-Frazao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ##
 
@@ -49,27 +72,4 @@ Sinta-se à vontade para explorar meus repositórios — busco manter tudo docum
 
 ## 
 
-### `REDES`
-<p align="left">
-    <a href="https://www.linkedin.com/in/carlos-eduardo-23180019a/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Acessar meu LinkedIn" 
-            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-        />
-    </a>
-    <a href="https://github.com/Carlos-Frazao?tab=repositories&sort=stargazers" target="_blank">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Carlos-Frazao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Carlos-Frazao?tab=followers" target="_blank">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Carlos-Frazao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
