@@ -72,4 +72,6 @@ Sinta-se à vontade para explorar meus repositórios — busco manter tudo docum
 
 ## 
 
+<img src="https://raw.githubusercontent.com/Carlos-Frazao/Carlos-Frazao/output/snake.svg" alt="Snake animation" />
+
 
